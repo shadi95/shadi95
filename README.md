@@ -153,27 +153,16 @@
 </table>
 
 
-<br/>
-
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<br />
-
 
 <!--
 **colinbut/colinbut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: MERN stuck & Laravel Development 
+- 🌱 I’m currently learning Blockchain, Solidity Programming, Next js and Three js
+- 🤔 I’m looking for help with: whatever related to technology and help me gain new skill
+- 💬 Ask me about: Whatever in Yuor mind :) Your are most Welcome  
+- 📫 How to reach me: My website, linkedin & Email, Phone number
+- ⚡ Fun fact: Having lived in Asia,  I've never tasted Durian
 -->
