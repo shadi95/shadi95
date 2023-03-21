@@ -2,11 +2,12 @@
 
 ### Full-stack Developer
 
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
-- ⚡ Fun fact: Having lived in Asia, I've never tasted Durian
+- 🔭 I’m currently working on: MERN stuck & Laravel Development 
+- 🌱 I’m currently learning Blockchain, Solidity Programming, Next js and Three js
+- 🤔 I’m looking for help with: whatever related to technology and help me gain new skill
+- 💬 Ask me about: Whatever in Yuor mind :) Your are most Welcome  
+- 📫 How to reach me: My website, linkedin & Email, Phone number
+- ⚡ Fun fact: Having lived in Asia,  I've never tasted Durian
 
 <br/>
 
@@ -26,7 +27,7 @@
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="[https://www.linkedin.com/in/colinbut/](https://www.linkedin.com/in/mhd-shadi-saleem-443103a3/)"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
@@ -151,18 +152,3 @@
         </td>
     </tr>
 </table>
-
-
-
-<!--
-**colinbut/colinbut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: MERN stuck & Laravel Development 
-- 🌱 I’m currently learning Blockchain, Solidity Programming, Next js and Three js
-- 🤔 I’m looking for help with: whatever related to technology and help me gain new skill
-- 💬 Ask me about: Whatever in Yuor mind :) Your are most Welcome  
-- 📫 How to reach me: My website, linkedin & Email, Phone number
-- ⚡ Fun fact: Having lived in Asia,  I've never tasted Durian
--->
