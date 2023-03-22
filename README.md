@@ -27,7 +27,7 @@
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/mhd-shadi-saleem-443103a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/mhd-shadi-saleem-443103a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="40" height="40"/></a>
 
 ### Toolset
 
