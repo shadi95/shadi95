@@ -13,13 +13,15 @@
 
 ### My Portfolio
 
-<a href="https://shadi.diphant.com/">🌐</a>
+<a href="https://shadi.diphant.com/"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="40" height="40"/></a>
 
 
 
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/mhd-shadi-saleem-443103a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+
+<a href="https://wa.me/60182815896?text=Hey, "><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="40" height="40"/></a>
 
 ### Toolset
 
