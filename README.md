@@ -44,13 +44,13 @@
     <tr>
         <td>Client-Side</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a>            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="40" height="40"/></a>            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" width="40" height="40"/></a>            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/></a>            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" width="40" height="40"/></a>            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width="40" height="40"/></a>
             <!-- <a href=""><img src=""/></a>
             <a href=""><img src=""/></a> -->
         </td>
@@ -58,10 +58,17 @@
     <tr>
         <td>Server-side</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/circleci/circleci-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/travis/travis-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/></a>            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/></a>            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="40" height="40"/></a>            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/ibm/ibm-ar21.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="40" height="40"/></a>
         </td>
     </tr>
     
