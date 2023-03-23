@@ -27,8 +27,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.linkedin.com/in/mhd-shadi-saleem-443103a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-
+            <a href="https://www.linkedin.com/in/mhd-shadi-saleem-443103a3/">
+                <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
         </td>
         <td>
             <a href="https://wa.me/60182815896?text=Hey, "><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="40" height="40"/></a>
