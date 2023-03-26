@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Blockchain, Solidity Programming, Next js and Three js
 - 🤔 I’m looking for help with: whatever related to technology and help me gain new skill
 - 💬 Ask me about: Whatever in Yuor mind :) Your are most Welcome  
-- 📫 How to reach me: My website, linkedin & Email, Phone number
+- 📫 How to reach me: My Portfolio, linkedin & Email, Phone number
 - ⚡ Fun fact: Having lived in Asia,  I've never tasted Durian
 
 <br/>
