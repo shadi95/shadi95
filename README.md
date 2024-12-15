@@ -13,7 +13,7 @@
 
 ### My Portfolio
 
-<a href="https://shadi.diphant.com/"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="40" height="40"/></a>
+<a href="https://shadi-saleem.vercel.app/"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="40" height="40"/></a>
 
 
 
@@ -31,7 +31,7 @@
                 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
         </td>
         <td>
-            <a href="https://wa.me/60182815896?text=Hey, "><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="40" height="40"/></a>
+            <a href="https://wa.me/601127090970?text=Hey, "><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
