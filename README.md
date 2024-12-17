@@ -1,11 +1,11 @@
 # Hello there 👋, I'm Mhd Shadi Saleem
 
-### Full-stack Developer
+###  Full-Stack Developer | 3+ Years of Experience
 
 - 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
+- 🌱 I’m currently learning: __Blockchain, Solidity Programming and Three.js for next-gen solutions__
+- 💬 Ask me about __Cloud Engineering (AWS), AI-driven solutions, 3D programming, CI/CD, Docker, Kubernetes, Software Dev...__
+- 😄 Arabic name: __شادي سليم__
 - ⚡ Fun fact: Having lived in Asia, I've never tasted Durian
 
 <br/>
@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://colinbut.github.io/">🌐</a>
+            <a href="https://shadi-saleem.vercel.app/">🌐</a>
         </td>
     </tr>
 </table>
@@ -26,21 +26,19 @@
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<table> <tr> <th>My LinkedIn</th> <th>My WhatsApp</th> </tr> <tr> <td> <a href="https://linkedin.com/in/mhd-shadi-saleem-443103a3"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/> </a> </td> <td> <a href="https://wa.me/601127090970?text=Hey!"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="40" height="40"/> </a> </td> </tr> </table>
 
 ### Toolset
 
 <table>
     <tr>
-        <td>Automation Tooling</td>
+        <td>Client-Side Development</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a> 
+            <a href=""><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a> 
+            <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a> 
+            <a href=""><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/></a> 
+            <a href=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -194,21 +192,3 @@
         </td>
     </tr>
 </table>
-
-
-
-
-<!--
-**colinbut/colinbut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
